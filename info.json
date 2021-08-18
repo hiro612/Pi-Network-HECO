@@ -1,0 +1,11 @@
+{
+ "name": "MYR",
+ "website": "https://tokenpocket.pro",
+ "description": "MYR is a cryptocurrency with a value meant to mirror the value of the RM. The idea was to create stable digital cash. ",
+ "explorer": "https://hecoinfo.com/tx/0xfa74aed866d7a348c74e68a32daff2cc9a7d99b721d44fe67a30e2bc7707ee80",
+ "type": "HRC20",
+ "symbol": "MYR",
+ "decimals": 5,
+ "status": "active",
+ "id": "0xa15B5887FE289c448f2F0A566Ed78A40B94058c1"
+}
