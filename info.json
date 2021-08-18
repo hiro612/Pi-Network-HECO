@@ -1,11 +1,11 @@
 {
- "name": "MYR",
- "website": "https://tokenpocket.pro",
- "description": "MYR is a cryptocurrency with a value meant to mirror the value of the RM. The idea was to create stable digital cash. ",
- "explorer": "https://hecoinfo.com/tx/0xfa74aed866d7a348c74e68a32daff2cc9a7d99b721d44fe67a30e2bc7707ee80",
+ "name": "PiNetwork",
+ "website": "https://pi-network.io",
+ "description": "Pi is a cryptocurrency on HECO Chain Network.The idea was to create digital cash. ",
+ "explorer": "https://hecoinfo.com/tx/0xac1fd4462d323f9bceb031090e30bacd684aa9a60d46e3cd377a710c17008367",
  "type": "HRC20",
- "symbol": "MYR",
- "decimals": 5,
+ "symbol": "Pi",
+ "decimals": 18,
  "status": "active",
- "id": "0xa15B5887FE289c448f2F0A566Ed78A40B94058c1"
+ "id": "0xd2b853cdd4dc83fa8a3e372a19c4ec441a53adee"
 }
